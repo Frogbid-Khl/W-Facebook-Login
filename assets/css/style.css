@@ -1,0 +1,29 @@
+.bth
+{
+    background-color: #1877f2;
+    border: 1px solid black;
+    border-radius: .25rem;
+    padding: 15px 20px;
+}
+.btl
+{
+    background-color: #42b72a;
+    border: 1px solid black;
+    border-radius: .25rem;
+    color: #e5e6e7;
+    padding: 10px 20px;
+}
+.fs
+{
+    font-size: 4rem;
+}
+.container-fluid
+{
+    background-color: #e5e6e7;
+}
+.fb-card
+{
+    box-shadow: -1px 1px 16px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 1px 16px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 1px 16px 3px rgba(0,0,0,0.75);
+}

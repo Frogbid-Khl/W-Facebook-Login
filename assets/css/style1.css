@@ -1,0 +1,186 @@
+.ft-logo{
+    height: 60px ;
+    padding: 10px;
+}
+
+.ft-button
+{
+    background-color: #c5a96c;
+    padding: 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+.ft-button:hover
+{
+    background-color: #333333;
+    padding: 20px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.hamburger-menu
+{
+    padding: 20px;
+}
+.ft_img
+{
+    height: 100px ;
+}
+.ft-card
+{
+    background: url("http://fgatrust.com/wp-content/uploads/2022/05/Group-8884.png") no-repeat center;
+    background-size: cover;
+}
+.btn
+{
+    background-color: navajowhite;
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+    position: center;
+}
+.btnn
+{
+    background-color: #0d6efd;
+    padding: 10px;
+    text-decoration: none;
+    color: #e5e6e7;
+position: center;
+}
+.btnnn
+{
+    background-color: #5c636a;
+    padding: 10px;
+    text-decoration: none;
+    color: #e5e6e7;
+    position: center;
+}
+.card-text
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+.card-text
+{
+    font-size: large;
+}
+.ft-btn
+{
+    background-image: linear-gradient(270deg, #C7B389 0%, #EAEAEA 100%);
+    padding: 10px 30px;
+    border: unset;
+    border-radius: unset;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+}
+.txt
+{
+    padding-left: 30px;
+
+
+}
+.txtt
+{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: x-large;
+}
+.ft-card2
+{
+    background: url("https://fgatrust.com/wp-content/uploads/2022/03/v1016-a-08-scaled.jpg") no-repeat center;
+    background-size: cover;
+}
+.imgg
+{
+    padding : 5px;
+    image-resolution: from-image;
+}
+
+.ft-content-title{
+    color: #997404;
+}
+.link-item
+{
+
+    color: #000000;
+}
+.ft-card3
+{
+    background: url("https://fgatrust.com/wp-content/uploads/2022/03/abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products-scaled.jpg") no-repeat center;
+    background-size: cover;
+}
+.ft-card5
+{
+    background: url("https://fgatrust.com/wp-content/uploads/2022/03/abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products-scaled.jpg") no-repeat center;
+    background-size: cover;
+}
+.ft-card4
+{
+    background: url("https://fgatrust.com/wp-content/uploads/2022/03/abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products-scaled.jpg") no-repeat center;
+    background-size: cover;
+}
+
+/* Style for even li elements */
+.ft-list li:nth-child(even) {
+    color: #000000; /* Replace with your desired text color for even items */
+}
+
+/* Style for odd li elements */
+.ft-list li:nth-child(odd) {
+    color: #997404; /* Replace with your desired text color for odd items */
+}
+.hi
+{
+    font-size: 30px;
+}
+.font{
+    font-size: 20px ;
+}
+.ft-card6
+{
+    background: url("https://fgatrust.com/wp-content/uploads/2022/03/abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products-scaled.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.ft-card-header{
+    background: #997404;
+    padding: 15px 10px 10px 15px;
+}
+.ft-service-row{
+    padding-right: unset;
+    padding-left: unset;
+    margin: unset;
+}
+
+.ft-service-row .col-3{
+    padding-right: unset;
+    padding-left: unset;
+}
+.bt{
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: .25rem;
+    font-size: 15px;
+}
+.bt:hover
+{
+    background-color: #333333;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+.bth
+{
+    background-color: #0d6efd;
+    border: 1px solid black;
+    border-radius: .25rem;
+
+}
+.btl
+{
+    background-color: #4DC7A0;
+    border: 1px solid black;
+    border-radius: .25rem;
+
+}
