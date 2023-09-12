@@ -27,3 +27,23 @@
     -webkit-box-shadow: -1px 1px 16px 3px rgba(0,0,0,0.75);
     -moz-box-shadow: -1px 1px 16px 3px rgba(0,0,0,0.75);
 }
+.modal-head
+{
+height: 2rem;
+
+}
+.font
+{
+    color: #90949c;
+}
+hr.new3 {
+    border-top: 1px dotted black;
+
+
+}
+.bt
+{
+    background-color: #6d84b4;
+    padding: 2px 20px;
+    border-radius: unset;
+}
